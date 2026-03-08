@@ -1,0 +1,16 @@
+Name,Purpose,Cost (USD),Qty,Total (USD),Link,Distributor
+,,,,,,
+Hotswap sockets,To solder to the PCB for switches,$0.11,90,$9.90,Link to Listing,Stackskb
+PCB ( 5 MOQ ),this is the main circuit board for keyboard,$40.00,1,$40.00,-,JLCPCB
+Stabilzers,To support the 2u and 6.25u keys,$0.00,1,$0.00,-,Self sourced ( I already have the parts mentioned as self sourced )
+Heatset inserts and Screws,To attach the 3 bodies together,$0.00,8,$0.00,-,Self sourced 
+Rotatory Encoder,To control volume/brightness,$0.00,1,$0.00,-,Self sourced
+OLED ( 0.91 inch ),To display random stuff while I type,$0.00,1,$0.00,-,Self sourced
+Shipping charges,Shipping charge to get the 3d prints ( from #printing-legion ),$6.00,1,$6.00,-,#printing-legion
+Pin headers ( 1x40 ),To solder the rpi pico to the PCB,$0.01,1,$0.01,Link to Listing,robu.in
+raspberry pi pico,This is the MCU of the keyboard,$4.50,1,$4.50,Link to Listing,robu.in
+1N4148W SOD-123 1206 Diode,Used for the matrix wiring in the keyboard,$0.01,100,$0.92,Link to Listing,robu.in
+Keycap set ( Full Keyboard ),To add on the switches,$14.14,1,$14.14,Link to Listing,Stackskb
+Switches,To press the keys,$0.26,90,$23.40,Link to Listing,Stackskb
+,,,,,,
+,,,,Total Estimated Cost (USD):$98.87,,
